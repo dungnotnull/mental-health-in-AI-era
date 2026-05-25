@@ -1,0 +1,12 @@
+# Flutter
+frontend/.dart_tool/
+frontend/.packages
+frontend/build/
+frontend/.env
+
+# Supabase
+backend/supabase/.temp/
+
+# OS
+.DS_Store
+.env*.mp4  

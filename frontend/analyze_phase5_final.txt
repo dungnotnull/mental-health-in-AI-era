@@ -1,0 +1,118 @@
+Analyzing frontend...                                           
+
+warning - The URI 'package:flutter_lints/flutter.yaml' included in 'C:\Users\DUNG\Desktop\How r u bro\toi_van_on_mvp\frontend\analysis_options.yaml' can't be found when analyzing 'C:\Users\DUNG\Desktop\How r u bro\toi_van_on_mvp\frontend' - analysis_options.yaml:1:10 - include_file_not_found
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\common_widgets\loading_indicator.dart:32:27 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\presentation\login_screen.dart:51:39 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\presentation\login_screen.dart:53:58 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\presentation\login_screen.dart:56:43 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\presentation\login_screen.dart:159:50 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\presentation\login_screen.dart:160:52 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\presentation\login_screen.dart:162:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\presentation\login_screen.dart:169:54 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\presentation\register_screen.dart:56:39 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\presentation\register_screen.dart:58:58 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\presentation\register_screen.dart:61:43 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\presentation\register_screen.dart:160:50 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\presentation\register_screen.dart:161:52 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\presentation\register_screen.dart:163:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\presentation\register_screen.dart:170:54 - deprecated_member_use
+   info - The import of 'dart:ui' is unnecessary because all of the used elements are also provided by the import of 'package:flutter/material.dart' - lib\features\auth\presentation\widgets\auth_background_video.dart:1:8 - unnecessary_import
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\presentation\widgets\auth_background_video.dart:57:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\daily_mood\presentation\mood_screen.dart:92:32 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\daily_mood\presentation\mood_screen.dart:93:32 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\daily_mood\presentation\mood_screen.dart:94:32 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\daily_mood\presentation\mood_screen.dart:155:44 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\daily_mood\presentation\mood_screen.dart:155:77 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\daily_mood\presentation\mood_screen.dart:158:39 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\daily_mood\presentation\mood_screen.dart:158:71 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\daily_mood\presentation\mood_screen.dart:162:39 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\daily_mood\presentation\mood_screen.dart:170:43 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\daily_mood\presentation\mood_screen.dart:170:75 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\daily_mood\presentation\mood_screen.dart:189:71 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\daily_mood\presentation\mood_screen.dart:198:56 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\daily_mood\presentation\mood_screen.dart:198:88 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\daily_mood\presentation\mood_screen.dart:224:35 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\daily_mood\presentation\widgets\mood_history_card.dart:19:41 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\daily_mood\presentation\widgets\mood_history_card.dart:22:26 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\daily_mood\presentation\widgets\mood_history_card.dart:34:28 - deprecated_member_use
+warning - The declaration '<unnamed>' isn't referenced - lib\features\newfeed\presentation\create_post_screen.dart:22:7 - unused_element
+  error - The named parameter 'columns' isn't defined - lib\features\newfeed\presentation\create_post_screen.dart:234:19 - undefined_named_parameter
+  error - The named parameter 'emojiSizeMax' isn't defined - lib\features\newfeed\presentation\create_post_screen.dart:235:19 - undefined_named_parameter
+  error - The named parameter 'verticalSpacing' isn't defined - lib\features\newfeed\presentation\create_post_screen.dart:236:19 - undefined_named_parameter
+  error - The named parameter 'horizontalSpacing' isn't defined - lib\features\newfeed\presentation\create_post_screen.dart:237:19 - undefined_named_parameter
+  error - The named parameter 'gridPadding' isn't defined - lib\features\newfeed\presentation\create_post_screen.dart:238:19 - undefined_named_parameter
+  error - The named parameter 'initCategory' isn't defined - lib\features\newfeed\presentation\create_post_screen.dart:239:19 - undefined_named_parameter
+  error - The named parameter 'bgColor' isn't defined - lib\features\newfeed\presentation\create_post_screen.dart:240:19 - undefined_named_parameter
+  error - The named parameter 'indicatorColor' isn't defined - lib\features\newfeed\presentation\create_post_screen.dart:241:19 - undefined_named_parameter
+  error - The named parameter 'iconColor' isn't defined - lib\features\newfeed\presentation\create_post_screen.dart:242:19 - undefined_named_parameter
+  error - The named parameter 'iconColorSelected' isn't defined - lib\features\newfeed\presentation\create_post_screen.dart:243:19 - undefined_named_parameter
+  error - The named parameter 'backspaceColor' isn't defined - lib\features\newfeed\presentation\create_post_screen.dart:244:19 - undefined_named_parameter
+  error - The named parameter 'skinToneDialogBgColor' isn't defined - lib\features\newfeed\presentation\create_post_screen.dart:245:19 - undefined_named_parameter
+  error - The named parameter 'skinToneIndicatorColor' isn't defined - lib\features\newfeed\presentation\create_post_screen.dart:246:19 - undefined_named_parameter
+  error - The named parameter 'enableSkinTones' isn't defined - lib\features\newfeed\presentation\create_post_screen.dart:247:19 - undefined_named_parameter
+  error - The named parameter 'recentTabBehavior' isn't defined - lib\features\newfeed\presentation\create_post_screen.dart:248:19 - undefined_named_parameter
+  error - The named parameter 'recentsLimit' isn't defined - lib\features\newfeed\presentation\create_post_screen.dart:249:19 - undefined_named_parameter
+  error - The named parameter 'noRecents' isn't defined - lib\features\newfeed\presentation\create_post_screen.dart:250:19 - undefined_named_parameter
+  error - The named parameter 'loadingIndicator' isn't defined - lib\features\newfeed\presentation\create_post_screen.dart:255:19 - undefined_named_parameter
+  error - The named parameter 'tabBarType' isn't defined - lib\features\newfeed\presentation\create_post_screen.dart:256:19 - undefined_named_parameter
+  error - Undefined name 'TabBarType' - lib\features\newfeed\presentation\create_post_screen.dart:256:31 - undefined_identifier
+  error - Too many positional arguments: 0 expected, but 1 found - lib\features\newfeed\presentation\create_post_screen.dart:259:7 - extra_positional_arguments_could_be_named
+  error - Undefined name 'e' - lib\features\newfeed\presentation\create_post_screen.dart:259:63 - undefined_identifier
+  error - Expected to find ')' - lib\features\newfeed\presentation\create_post_screen.dart:259:66 - expected_token
+  error - Expected to find ']' - lib\features\newfeed\presentation\create_post_screen.dart:259:66 - expected_token
+  error - Expected a class member - lib\features\newfeed\presentation\create_post_screen.dart:260:7 - expected_class_member
+  error - Expected an identifier - lib\features\newfeed\presentation\create_post_screen.dart:260:15 - missing_identifier
+  error - Methods must have an explicit list of parameters - lib\features\newfeed\presentation\create_post_screen.dart:260:15 - missing_method_parameters
+  error - Undefined name '_contentController' - lib\features\newfeed\presentation\create_post_screen.dart:267:5 - undefined_identifier
+  error - Invalid context for 'super' invocation - lib\features\newfeed\presentation\create_post_screen.dart:268:5 - super_in_invalid_context
+  error - Undefined name '_isUploading' - lib\features\newfeed\presentation\create_post_screen.dart:281:11 - undefined_identifier
+  error - Undefined name '_submitPost' - lib\features\newfeed\presentation\create_post_screen.dart:287:30 - undefined_identifier
+  error - Undefined name '_selectedCategory' - lib\features\newfeed\presentation\create_post_screen.dart:312:32 - undefined_identifier
+  error - The function 'setState' isn't defined - lib\features\newfeed\presentation\create_post_screen.dart:327:29 - undefined_function
+  error - Undefined name '_selectedCategory' - lib\features\newfeed\presentation\create_post_screen.dart:327:44 - undefined_identifier
+  error - Undefined name '_contentController' - lib\features\newfeed\presentation\create_post_screen.dart:335:33 - undefined_identifier
+  error - Undefined name '_showEmojiPicker' - lib\features\newfeed\presentation\create_post_screen.dart:343:27 - undefined_identifier
+  error - The function 'setState' isn't defined - lib\features\newfeed\presentation\create_post_screen.dart:343:45 - undefined_function
+  error - Undefined name '_showEmojiPicker' - lib\features\newfeed\presentation\create_post_screen.dart:343:60 - undefined_identifier
+  error - Undefined name '_selectedImages' - lib\features\newfeed\presentation\create_post_screen.dart:348:23 - undefined_identifier
+  error - Undefined name '_selectedImages' - lib\features\newfeed\presentation\create_post_screen.dart:353:36 - undefined_identifier
+  error - Undefined name '_selectedImages' - lib\features\newfeed\presentation\create_post_screen.dart:363:57 - undefined_identifier
+  error - The function 'setState' isn't defined - lib\features\newfeed\presentation\create_post_screen.dart:372:46 - undefined_function
+  error - Undefined name '_selectedImages' - lib\features\newfeed\presentation\create_post_screen.dart:372:61 - undefined_identifier
+  error - Undefined name '_showEmojiPicker' - lib\features\newfeed\presentation\create_post_screen.dart:401:21 - undefined_identifier
+  error - The function 'setState' isn't defined - lib\features\newfeed\presentation\create_post_screen.dart:406:21 - undefined_function
+  error - Undefined name '_showEmojiPicker' - lib\features\newfeed\presentation\create_post_screen.dart:406:36 - undefined_identifier
+  error - Undefined name '_showEmojiPicker' - lib\features\newfeed\presentation\create_post_screen.dart:406:56 - undefined_identifier
+  error - Undefined name '_pickImage' - lib\features\newfeed\presentation\create_post_screen.dart:411:30 - undefined_identifier
+  error - Undefined name '_selectedImages' - lib\features\newfeed\presentation\create_post_screen.dart:415:22 - undefined_identifier
+  error - Undefined name '_showEmojiPicker' - lib\features\newfeed\presentation\create_post_screen.dart:421:15 - undefined_identifier
+  error - Undefined name '_contentController' - lib\features\newfeed\presentation\create_post_screen.dart:426:19 - undefined_identifier
+  error - The named parameter 'columns' isn't defined - lib\features\newfeed\presentation\create_post_screen.dart:429:19 - undefined_named_parameter
+  error - The named parameter 'emojiSizeMax' isn't defined - lib\features\newfeed\presentation\create_post_screen.dart:430:19 - undefined_named_parameter
+  error - The named parameter 'verticalSpacing' isn't defined - lib\features\newfeed\presentation\create_post_screen.dart:431:19 - undefined_named_parameter
+  error - The named parameter 'horizontalSpacing' isn't defined - lib\features\newfeed\presentation\create_post_screen.dart:432:19 - undefined_named_parameter
+  error - The named parameter 'gridPadding' isn't defined - lib\features\newfeed\presentation\create_post_screen.dart:433:19 - undefined_named_parameter
+  error - The named parameter 'initCategory' isn't defined - lib\features\newfeed\presentation\create_post_screen.dart:434:19 - undefined_named_parameter
+  error - The named parameter 'bgColor' isn't defined - lib\features\newfeed\presentation\create_post_screen.dart:435:19 - undefined_named_parameter
+  error - The named parameter 'indicatorColor' isn't defined - lib\features\newfeed\presentation\create_post_screen.dart:436:19 - undefined_named_parameter
+  error - The named parameter 'iconColor' isn't defined - lib\features\newfeed\presentation\create_post_screen.dart:437:19 - undefined_named_parameter
+  error - The named parameter 'iconColorSelected' isn't defined - lib\features\newfeed\presentation\create_post_screen.dart:438:19 - undefined_named_parameter
+  error - The named parameter 'backspaceColor' isn't defined - lib\features\newfeed\presentation\create_post_screen.dart:439:19 - undefined_named_parameter
+  error - The named parameter 'skinToneDialogBgColor' isn't defined - lib\features\newfeed\presentation\create_post_screen.dart:440:19 - undefined_named_parameter
+  error - The named parameter 'skinToneIndicatorColor' isn't defined - lib\features\newfeed\presentation\create_post_screen.dart:441:19 - undefined_named_parameter
+  error - The named parameter 'enableSkinTones' isn't defined - lib\features\newfeed\presentation\create_post_screen.dart:442:19 - undefined_named_parameter
+  error - The named parameter 'recentTabBehavior' isn't defined - lib\features\newfeed\presentation\create_post_screen.dart:443:19 - undefined_named_parameter
+  error - The named parameter 'recentsLimit' isn't defined - lib\features\newfeed\presentation\create_post_screen.dart:444:19 - undefined_named_parameter
+  error - The named parameter 'noRecents' isn't defined - lib\features\newfeed\presentation\create_post_screen.dart:445:19 - undefined_named_parameter
+  error - The named parameter 'loadingIndicator' isn't defined - lib\features\newfeed\presentation\create_post_screen.dart:450:19 - undefined_named_parameter
+  error - The named parameter 'tabBarType' isn't defined - lib\features\newfeed\presentation\create_post_screen.dart:451:19 - undefined_named_parameter
+  error - Undefined name 'TabBarType' - lib\features\newfeed\presentation\create_post_screen.dart:451:31 - undefined_identifier
+  error - Expected a method, getter, setter or operator declaration - lib\features\newfeed\presentation\create_post_screen.dart:459:1 - expected_executable
+   info - 'purchasePackage' is deprecated and shouldn't be used. Use purchase(PurchaseParams) - lib\features\profile\data\subscription_repository.dart:68:25 - deprecated_member_use
+warning - Unused import: 'package:frontend/features/daily_mood/domain/mood.dart' - lib\features\profile\presentation\profile_screen.dart:19:8 - unused_import
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\stats\presentation\stats_screen.dart:84:41 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\stats\presentation\stats_screen.dart:112:41 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\stats\presentation\stats_screen.dart:141:47 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\stats\presentation\stats_screen.dart:153:44 - deprecated_member_use
+
+114 issues found. (ran in 6.3s)

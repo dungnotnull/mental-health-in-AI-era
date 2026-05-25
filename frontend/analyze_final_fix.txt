@@ -1,0 +1,76 @@
+Resolving dependencies...
+Downloading packages...
+  _fe_analyzer_shared 85.0.0 (97.0.0 available)
+  analyzer 7.6.0 (11.0.0 available)
+  analyzer_plugin 0.13.4 (0.14.5 available)
+  app_links 6.4.1 (7.0.0 available)
+  build 2.5.4 (4.0.4 available)
+  build_config 1.1.2 (1.3.0 available)
+  build_resolvers 2.5.4 (3.0.4 available)
+  build_runner 2.5.4 (2.12.2 available)
+  build_runner_core 9.1.2 (9.3.2 available)
+  custom_lint_core 0.7.5 (0.8.2 available)
+  custom_lint_visitor 1.0.0+7.7.0 (1.0.0+9.0.0 available)
+  dart_style 3.1.1 (3.1.7 available)
+  fl_chart 0.68.0 (1.1.1 available)
+  flutter_riverpod 2.6.1 (3.3.1 available)
+  fluttertoast 8.2.14 (9.0.0 available)
+  freezed_annotation 2.4.4 (3.1.0 available)
+  google_fonts 6.3.3 (8.0.2 available)
+  infinite_scroll_pagination 4.1.0 (5.1.1 available)
+  meta 1.17.0 (1.18.1 available)
+  purchases_flutter 9.13.1 (9.14.0 available)
+  riverpod 2.6.1 (3.2.1 available)
+  riverpod_analyzer_utils 0.5.9 (0.5.10 available)
+  riverpod_annotation 2.6.1 (4.0.2 available)
+  riverpod_generator 2.6.4 (4.0.3 available)
+  share_plus 10.1.4 (12.0.1 available)
+  share_plus_platform_interface 5.0.2 (6.1.0 available)
+  source_gen 2.0.0 (4.2.0 available)
+  sqflite_android 2.4.2+2 (2.4.2+3 available)
+  win32 5.15.0 (6.0.0 available)
+Got dependencies!
+29 packages have newer versions incompatible with dependency constraints.
+Try `flutter pub outdated` for more information.
+Analyzing frontend...                                           
+
+warning - The URI 'package:flutter_lints/flutter.yaml' included in 'C:\Users\DUNG\Desktop\How r u bro\toi_van_on_mvp\frontend\analysis_options.yaml' can't be found when analyzing 'C:\Users\DUNG\Desktop\How r u bro\toi_van_on_mvp\frontend' - analysis_options.yaml:1:10 - include_file_not_found
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\presentation\login_screen.dart:51:39 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\presentation\login_screen.dart:53:58 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\presentation\login_screen.dart:56:43 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\presentation\login_screen.dart:159:50 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\presentation\login_screen.dart:160:52 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\presentation\login_screen.dart:162:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\presentation\login_screen.dart:169:54 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\presentation\register_screen.dart:56:39 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\presentation\register_screen.dart:58:58 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\presentation\register_screen.dart:61:43 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\presentation\register_screen.dart:160:50 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\presentation\register_screen.dart:161:52 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\presentation\register_screen.dart:163:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\presentation\register_screen.dart:170:54 - deprecated_member_use
+   info - The import of 'dart:ui' is unnecessary because all of the used elements are also provided by the import of 'package:flutter/material.dart' - lib\features\auth\presentation\widgets\auth_background_video.dart:1:8 - unnecessary_import
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\presentation\widgets\auth_background_video.dart:57:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\daily_mood\presentation\mood_screen.dart:91:32 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\daily_mood\presentation\mood_screen.dart:92:32 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\daily_mood\presentation\mood_screen.dart:93:32 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\daily_mood\presentation\mood_screen.dart:154:44 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\daily_mood\presentation\mood_screen.dart:154:77 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\daily_mood\presentation\mood_screen.dart:157:39 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\daily_mood\presentation\mood_screen.dart:157:71 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\daily_mood\presentation\mood_screen.dart:161:39 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\daily_mood\presentation\mood_screen.dart:169:43 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\daily_mood\presentation\mood_screen.dart:169:75 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\daily_mood\presentation\mood_screen.dart:222:35 - deprecated_member_use
+  error - The method 'CreatePostScreen' isn't defined for the type '_MoodScreenState' - lib\features\daily_mood\presentation\mood_screen.dart:324:59 - undefined_method
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\daily_mood\presentation\widgets\mood_history_card.dart:19:41 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\daily_mood\presentation\widgets\mood_history_card.dart:22:26 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\daily_mood\presentation\widgets\mood_history_card.dart:34:28 - deprecated_member_use
+   info - 'purchasePackage' is deprecated and shouldn't be used. Use purchase(PurchaseParams) - lib\features\profile\data\subscription_repository.dart:68:25 - deprecated_member_use
+warning - Unused import: 'package:frontend/features/daily_mood/domain/mood.dart' - lib\features\profile\presentation\profile_screen.dart:17:8 - unused_import
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\stats\presentation\stats_screen.dart:83:41 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\stats\presentation\stats_screen.dart:111:41 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\stats\presentation\stats_screen.dart:140:47 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\stats\presentation\stats_screen.dart:152:44 - deprecated_member_use
+
+38 issues found. (ran in 4.5s)
